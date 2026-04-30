@@ -30,19 +30,31 @@ Polirium là một nền tảng **ERP (Enterprise Resource Planning)** theo ki�
 
 ---
 
-## Activity & Insights
+## Hoạt động & thống kê
+
+Các widget kiểu **github-readme-stats / streak / activity-graph** chỉ nhận **login User**, không hỗ trợ **Organization** — vì vậy dùng `polirium` sẽ báo lỗi. Phần dưới dùng **Shields.io theo từng repo** (tương thích org) và link tới **biểu đồ commit** chính thức trên GitHub.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=polirium&show_icons=true&theme=tokyonight&hide_border=true" alt="Polirium GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polirium&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
+  <a href="https://github.com/polirium/polirium"><img src="https://img.shields.io/github/stars/polirium/polirium?style=for-the-badge&logo=github&color=1f6feb" alt="Stars polirium/polirium" /></a>
+  <a href="https://github.com/polirium/polirium/graphs/commit-activity"><img src="https://img.shields.io/github/commit-activity/m/polirium/polirium?style=for-the-badge&label=polirium%20commits%2Ftháng&color=238636" alt="Monthly commits polirium" /></a>
+  <a href="https://github.com/polirium/polirium/pulse"><img src="https://img.shields.io/badge/Pulse-hoạt_động_repo-8957e5?style=for-the-badge&logo=github" alt="Repo pulse" /></a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=polirium&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <a href="https://github.com/polirium/platform-core"><img src="https://img.shields.io/github/stars/polirium/platform-core?style=for-the-badge&logo=github&color=1f6feb" alt="Stars platform-core" /></a>
+  <a href="https://github.com/polirium/platform-core/graphs/commit-activity"><img src="https://img.shields.io/github/commit-activity/m/polirium/platform-core?style=for-the-badge&label=platform-core%20commits%2Ftháng&color=238636" alt="Monthly commits platform-core" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=polirium&theme=tokyo-night&hide_border=true&area=true" alt="Commit activity graph" />
+  <a href="https://github.com/polirium/polirium.com"><img src="https://img.shields.io/github/stars/polirium/polirium.com?style=for-the-badge&logo=github&color=1f6feb" alt="Stars polirium.com" /></a>
+  <a href="https://github.com/polirium/polirium.com/graphs/commit-activity"><img src="https://img.shields.io/github/commit-activity/m/polirium/polirium.com?style=for-the-badge&label=polirium.com%20commits%2Ftháng&color=238636" alt="Monthly commits polirium.com" /></a>
+</p>
+
+<p align="center">
+  <strong>Biểu đồ commit (trên GitHub):</strong><br />
+  <a href="https://github.com/polirium/polirium/graphs/commit-activity">polirium</a> ·
+  <a href="https://github.com/polirium/platform-core/graphs/commit-activity">platform-core</a> ·
+  <a href="https://github.com/polirium/polirium.com/graphs/commit-activity">polirium.com</a>
 </p>
 
 ---
